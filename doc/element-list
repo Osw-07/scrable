@@ -1,0 +1,5 @@
+com.bluenile.scrabble
+com.bluenile.scrabble.api
+com.bluenile.scrabble.dao
+com.bluenile.scrabble.model
+com.bluenile.scrabble.service

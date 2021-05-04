@@ -1,0 +1,1 @@
+packageSearchIndex = [{"l":"All Packages","u":"allpackages-index.html"},{"l":"com.bluenile.scrabble"},{"l":"com.bluenile.scrabble.api"},{"l":"com.bluenile.scrabble.dao"},{"l":"com.bluenile.scrabble.model"},{"l":"com.bluenile.scrabble.service"}];updateSearchResults();
